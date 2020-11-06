@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c9c6fb-2a98-4ad0-b505-6e92871da346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch1/ch1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch1/pya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch1/pyb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/pyc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/pyd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/pye.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/pyf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/ch1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/ch1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1/pyb.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1/pyb.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
