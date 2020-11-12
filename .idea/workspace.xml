@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c9c6fb-2a98-4ad0-b505-6e92871da346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6/ch6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6/pya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch6/pyb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7/ch7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7/pya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7/pyb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7/pyc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8/ch8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8/pya.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8/pyb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8/pyc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8/pyd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
