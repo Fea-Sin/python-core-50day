@@ -26,3 +26,11 @@
 [常用数据结构之字典](./src/ch7/ch7.md)
 
 [面向对象编程](./src/ch8/ch8.md)
+
+[文件读写](./src/ch9/ch9.md)
+
+[Python标准库初探]()
+
+[Python获取网络资源]()
+
+[Python解析HTML页面]()

@@ -97,9 +97,59 @@ for _ in range(13):
     for player in players:
         player.get_one(poker.deal())
 
-for player in players:
-    player.arrange()
-    print(player, end='\n')
+# for player in players:
+#     player.arrange()
+#     print(player, end='\n')
+
+lines = ['======* 发牌 *=======']
+
+"""
+单文件模式
+"""
+def make_one():
+    try:
+        with open('two.txt', 'w', encoding='utf-8') as file:
+            for line in lines:
+                file.write(f'\n{line}')
+
+            for player in players:
+                player.arrange()
+                file.write(f'\n{player}')
+    except FileNotFoundError:
+        print('指定文件无法打开')
+    except IOError:
+        print('读写文件时出错')
+
+    print('程序执行结束')
+
+
+"""
+多文件模式
+"""
+def make_mul():
+    for index in range(1, 101):
+        try:
+            with open(f'data/poker{index}.txt', 'w', encoding='utf-8') as file:
+                for line in lines:
+                    file.write(f'\n{line}')
+
+                for player in players:
+                    player.arrange()
+                    file.write(f'\n{player}')
+        except FileNotFoundError:
+            print('指定文件无法打开')
+        except IOError:
+            print('读写文件时出错')
+
+    print('=程序执行结束=')
+
+
+# 数据持久化
+make_one()
+
+make_mul()
+
+
 
 
 
