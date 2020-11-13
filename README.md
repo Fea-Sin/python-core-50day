@@ -29,7 +29,7 @@
 
 [文件读写](./src/ch9/ch9.md)
 
-[Python标准库初探]()
+[Python标准库初探](./src/ch10/ch10.md)
 
 [Python获取网络资源]()
 
