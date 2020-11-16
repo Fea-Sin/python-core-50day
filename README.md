@@ -31,6 +31,8 @@
 
 [Python标准库初探](./src/ch10/ch10.md)
 
-[Python获取网络资源]()
+[对象的序列化和反序列化](./src/ch11/ch11.md)
 
-[Python解析HTML页面]()
+[Python获取网络资源](./src/ch12/ch12.md)
+
+[Python解析HTML页面](./src/ch13/ch13.md)
