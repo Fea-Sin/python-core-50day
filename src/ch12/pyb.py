@@ -5,7 +5,6 @@
 # @Author : FEASIN
 
 import requests
-import json
 
 APIKEY = ''
 num = 10

@@ -2,75 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c9c6fb-2a98-4ad0-b505-6e92871da346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/one/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/pya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/pyb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/pyc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13/pyd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/ch14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/stud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/ch15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/ta.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/tb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/tc.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13/ch13.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13/ch13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch12/pyb.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/pyb.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +36,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PTB/UGATIT-pytorch" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PTB/jpm_test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
