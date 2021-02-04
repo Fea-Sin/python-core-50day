@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c9c6fb-2a98-4ad0-b505-6e92871da346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch16/ch16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/condata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/pya.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/pyb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/pyc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/pyd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/pye.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
